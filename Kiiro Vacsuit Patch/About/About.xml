@@ -15,6 +15,10 @@
 			<displayName>Kiiro Race</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2988200143</steamWorkshopUrl>
 		</li>
+		<li>
+			<packageId>Ludeon.Rimworld.Odyssey</packageId>
+			<displayName>Odyssey</displayName>
+		</li>
 	</modDependencies>
 	
 	<loadAfter>
